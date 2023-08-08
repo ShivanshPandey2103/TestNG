@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-21T11:09:01 IST" name="Suite" finished-at="2023-07-21T11:09:01 IST" duration-ms="112">
+    <groups>
+    </groups>
+    <test started-at="2023-07-21T11:09:01 IST" name="Test" finished-at="2023-07-21T11:09:01 IST" duration-ms="112">
+      <class name="TrainingSamples.TestngD1twentyone">
+        <test-method signature="reportertest1()[pri:0, instance:TrainingSamples.TestngD1twentyone@49dc7102]" started-at="2023-07-21T11:09:01 IST" name="reportertest1" finished-at="2023-07-21T11:09:01 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportertest1 -->
+        <test-method signature="reportertest2()[pri:0, instance:TrainingSamples.TestngD1twentyone@49dc7102]" started-at="2023-07-21T11:09:01 IST" name="reportertest2" finished-at="2023-07-21T11:09:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportertest2 -->
+        <test-method signature="reportertest3()[pri:0, instance:TrainingSamples.TestngD1twentyone@49dc7102]" started-at="2023-07-21T11:09:01 IST" name="reportertest3" finished-at="2023-07-21T11:09:01 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportertest3 -->
+        <test-method signature="reportertest4()[pri:0, instance:TrainingSamples.TestngD1twentyone@49dc7102]" started-at="2023-07-21T11:09:01 IST" name="reportertest4" finished-at="2023-07-21T11:09:01 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportertest4 -->
+      </class> <!-- TrainingSamples.TestngD1twentyone -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
