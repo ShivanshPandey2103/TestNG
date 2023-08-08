@@ -21,7 +21,7 @@ public class TestngD1 {      // JUST AN INTRODUCTION TO TESTNG , I AM CREATING S
 		
 		
 	}
-	
+	@Test
 	public void gittest() {
 		System.out.println("just a commit from gitstuff(american guy)");
 	}
